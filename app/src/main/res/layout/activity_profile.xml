@@ -112,9 +112,9 @@
                     android:id="@+id/id_btn_enter"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/text_btnAct"
                     android:layout_marginTop="30dp"
-                    android:theme="@style/StyleButton"/>
+                    android:text="@string/text_btnAct"
+                    android:theme="@style/StyleButton" />
 
 
             </LinearLayout>
